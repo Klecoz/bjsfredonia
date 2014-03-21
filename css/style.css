@@ -1,0 +1,174 @@
+body {
+	background-color:#000000;
+	color:#FFFFFF;
+	font-family: 'Rambla', sans-serif;
+	height:100%;
+	
+}
+
+
+#nav {
+	text-align:right;
+	padding-top:45px;
+}
+
+#nav ul {
+	list-style-type:none;
+}
+
+#nav li {
+	display:inline;
+	font-size:300%;
+	margin:0;
+
+}
+
+#nav a:link,
+#nav a:visited {
+	font-weight:bold;
+	color:#FFFFFF;
+	background-color:#000000;
+	text-align:center;
+	padding:6px;
+	text-decoration:none;
+	text-transform:uppercase;
+}
+
+#nav a:hover,a:active {
+	background-color:#5a5959;
+}
+
+#topbutt {
+	text-align:right;
+}
+
+#col1 h1,#col4 h1,#drinks1 h2,#drinks2 h2,#drinks3 h2,#menucol1 h2,#contact1 h1,#contact2 h1{
+	text-align:left;
+	text-transform:uppercase;
+	border-left:7px double;
+	padding-left:6px;
+
+}
+
+#col1 ul {
+	padding-top:20px;
+}
+
+#col1 li ,#drinks1 li ,#drinks2 li,#drinks3 li,#menucol1 li{
+	list-style-type:none;
+	line-height:1.2;
+}
+
+#col4 {
+	text-align:left;
+	line-height:1.2;
+
+}
+#col4 p	{
+	padding-top:20px;
+	padding-left:27px;
+	padding-right:40px;
+}
+
+#col2 img {
+	border: 4px solid #FFFFFF;
+	margin: 15px;
+}
+
+#col3 img {
+	border: 4px solid #FFFFFF;
+	margin: 15px;
+}
+
+#col5 img {
+	border: 4px solid #FFFFFF;
+	margin: 15px;
+}
+
+#col6 img {
+	border: 4px solid #FFFFFF;
+	margin: 15px;
+}
+
+
+#copyright {
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:10px;
+	width:100%;
+	border-top: 3px solid #FFFFFF;
+	text-align: center;
+	padding:5px;
+}
+
+#logo {
+}
+
+#space1 {
+	height: 20px;
+}
+
+#drinksbot img{
+	border: 4px solid #FFFFFF;
+}
+
+#drinks1 {
+	margin-right:30px;
+}
+
+#drinks2 {
+	margin:auto;
+}
+
+#drinks3 {
+	margin:auto;
+}
+
+#drinks3 span,#col1 span,#menucol1 span {
+	font-weight:bold;
+}
+
+#menucol1 br {
+	padding-bottom:500px;
+}
+
+#menucol2 h1 {
+	text-decoration:uppercase;
+	font-size:100px;
+	text-align:center;
+}
+
+#pushup {
+	margin-top:110px;
+}
+
+#menucol2 h4 {
+	text-align:center;
+}
+
+#menucol2 a:link,a:visited {
+	color:#FFFFFF;
+	text-decoration:none;
+}
+
+#menucol2 a:hover,a:active {
+	color:#5a5959;
+	text-decoration:none;
+}
+
+#contact1 {
+
+}
+
+#nifty {
+	text-align:right;
+	padding-right:35px;
+}
+
+#contact2{
+
+}
+
+
+
+
